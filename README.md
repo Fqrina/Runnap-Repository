@@ -1,10 +1,11 @@
 # running_app
 
-A new Flutter project.
+My first flutter project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. 
+about making an app that is similar to strava about how it works.
 
 A few resources to get you started if this is your first Flutter project:
 
